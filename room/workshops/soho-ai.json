@@ -1,0 +1,28 @@
+{
+  "agents": [
+    "Janice",
+    "Tommy",
+    "Brett",
+    "Sandy",
+    "Carl"
+  ],
+  "organisation": "SohoHouse",
+  "overall_goal": "Come up with the best use of AI within the organisation",
+  "description": "Focus on AI for personal productivity",
+  "phase": [
+    {
+      "id": "ideation",
+      "name": "Ideation",
+      "description": "Come up with ideas for AI personal productivity which have the biggest impact",
+      "goal": "Create a winning idea",
+      "rounds": 2
+    },
+    {
+      "id": "refinement",
+      "name": "Refinement",
+      "description": "Refine the winning idea and explore how to get the most out of it",
+      "goal": "Finalise a plan for the winning idea",
+      "rounds": 2
+    }
+  ]
+}

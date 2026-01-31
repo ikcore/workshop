@@ -1,0 +1,19 @@
+{
+  "agents": [
+    "Janice",
+    "Tommy",
+    "Boris"
+  ],
+  "organisation": "Boowm",
+  "overall_goal": "Come up with the best use of AI within the organisation",
+  "description": "",
+  "phase": [
+    {
+      "id": "ideation",
+      "name": "Ideation",
+      "description": "Come up with ideas",
+      "goal": "Create a new product",
+      "rounds": 2
+    }
+  ]
+}

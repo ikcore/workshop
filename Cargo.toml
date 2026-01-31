@@ -1,0 +1,11 @@
+[workspace]
+members = ["apps/workshop",
+    "modules/gaise/gaise-core",
+    "modules/gaise/gaise-provider-ollama",
+    "modules/gaise/gaise-provider-openai",
+    "modules/gaise/gaise-provider-vertexai",
+    "modules/gaise/gaise-chatbot",
+    "modules/spexsy",
+]
+default-members = ["apps/workshop"]
+resolver = "2"
